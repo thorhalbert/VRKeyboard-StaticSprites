@@ -1,0 +1,181 @@
+Keyboard	Chord	Group	Cell	Temlate 	Glyph	Main	S1	S2
+American1	N	L	7	Template_1_Home	0x61	a	A	SOH
+American1	N	L	29	Template_1_Normal	0x62	b	B	STX
+American1	N	L	5	Template_1_Normal	0x63	c	C	ETX
+American1	N	L	0	Template_1_Home	0x64	d	D	EOT
+American1	N	L	2	Template_1_Normal	0x65	e	E	ENQ
+American1	N	L	4	Template_1_Home	0x66	f	F	ACK
+American1	N	L	13	Template_1_Normal	0x67	g	G	BEL
+American1	N	R	19	Template_1_Normal	0x68	h	H	BS
+American1	N	R	8	Template_1_Normal	0x69	i	I	HT
+American1	N	R	7	Template_1_Home	0x6a	j	J	LF
+American1	N	R	1	Template_1_Home	0x6b	k	K	VT
+American1	N	R	0	Template_1_Home	0x6c	l	L	FF
+American1	N	R	18	Template_1_Normal	0x6d	m	M	CR
+American1	N	R	36	Template_1_Normal	0x6e	n	N	SO
+American1	N	R	2	Template_1_Normal	0x6f	o	O	SI
+American1	N	R	3	Template_1_Normal	0x70	p	P	DLE
+American1	N	L	20	Template_1_Normal	0x71	q	Q	DC1
+American1	N	L	3	Template_1_Normal	0x72	r	R	DC2
+American1	N	L	1	Template_1_Home	0x73	s	S	DC3
+American1	N	L	12	Template_1_Normal	0x74	t	T	DC4
+American1	N	R	20	Template_1_Normal	0x75	u	U	NAK
+American1	N	L	14	Template_1_Normal	0x76	v	V	SYN
+American1	N	L	21	Template_1_Normal	0x77	w	W	ETB
+American1	N	L	6	Template_1_Normal	0x78	x	X	CAN
+American1	N	R	38	Template_1_Normal	0x79	y	Y	EM
+American1	N	L	18	Template_1_Normal	0x7a	z	Z	SUB
+American1	N	L	26	Template_1_Normal	0x36	6	^	RS
+American1	N	R	46	Template_1_Normal	0x5c	\	|	FS
+American1	N	L	12	Template_1_Normal	0x60	`	~	NUL
+American1	N	R	12	Template_1_Normal	0x5b	[	{	ESC
+American1	N	R	27	Template_1_Normal	0x5d	]	}	GS
+American1	N	L	39	Template_3_Normal	0x31	1	!	
+American1	N	L	21	Template_3_Normal	0x32	2	@	
+American1	N	L	9	Template_3_Normal	0x33	3	#	
+American1	N	L	10	Template_3_Normal	0x34	4	$	
+American1	N	L	11	Template_3_Normal	0x35	5	%	
+American1	N	R	39	Template_3_Normal	0x31	7	&	
+American1	N	R	21	Template_3_Normal	0x32	8	*	
+American1	N	R	9	Template_3_Normal	0x33	9	(	
+American1	N	R	10	Template_3_Normal	0x34	0	)	
+American1	N	R	11	Template_3_Normal	0x2d	-	_	
+American1	N	R	26	Template_3_Normal	0x3d	=	+	
+American1	N	R	13	Template_3_Normal	0x5d	'	"	 
+American1	N	R	14	Template_3_Normal	0x2f	/	?	 
+American1	N	R	6	Template_3_Normal	0x2c	,	<	 
+American1	N	R	5	Template_3_Normal	0x2e	.	>	 
+American1	N	L	19	Template_Cmd2	*Tab	TAB	BT	
+American1	N	L	50	Template_Cmd	*Del	DEL		
+American1	N	L	28	Template_Cmd	*Return	RET		
+American1	N	L	27	Template_Cmd	*Back	BS		
+American1	N	L	40	Template_Cmd	*Escape	ESC		
+American1	N	L	23	Template_Funct	*PageUp	PAGE UP		
+American1	N	L	24	Template_Funct	*PageDown	PAGE UP		
+American1	N	L	25	Template_Funct	*Home	HOME		
+American1	N	L	46	Template_Funct	*End	END		
+American1	N	L	65	Template_Funct	*F1	F1		
+American1	N	L	41	Template_Funct	*F2	F2		
+American1	N	L	42	Template_Funct	*F3	F3		
+American1	N	L	43	Template_Funct	*F4	F4		
+American1	N	L	44	Template_Funct	*F5	F5		
+American1	N	L	45	Template_Funct	*F6	F6		
+American1	N	R	30	Template_1_Meta	*Math	Math		
+American1	N	R	15	Template_1_Meta	*Win	Win		
+American1	N	R	16	Template_1_Meta	*Menu	Menu		
+American1	N	R	31	Template_1_Meta	*Lang	Lang		
+American1	N	R	35	Template_Triple_Space	*Space			
+American1	N	R	33	Template_Chord	ALT	ALT		
+American1	N	R	32	Template_Chord	ALT	ALT		
+American1	N	R	58	Template_Chord	SHIFT	SHIFT		
+American1	N	R	34	Template_Chord	SHIFT	SHIFT		
+American1	N	R	57	Template_Chord	CTRL	CTRL		
+American1	N	R	56	Template_Chord	CTRL	CTRL		
+American1	N	R	53	Template_Funct	*Paste	PASTE		
+American1	N	R	54	Template_Funct	*Clip	CLIP		
+American1	N	R	29	Template_Cmd	*Del	DEL		
+American1	N	R	28	Template_Cmd	*Return	RET		
+American1	N	R	48	Template_Cmd	*Back	BS		
+American1	N	R	40	Template_Funct	*Up	UP		
+American1	N	R	22	Template_Funct	*Down	DOWN		
+American1	N	R	23	Template_Funct	*Left	LEFT		
+American1	N	R	24	Template_Funct	*Right	RIGHT		
+American1	N	R	26	Template_Funct	*Insert	INSERT		
+American1	N	R	46	Template_Funct	*Print	PRINT		
+American1	N	R	41	Template_Funct	*F7	F7		
+American1	N	R	42	Template_Funct	*F8	F8		
+American1	N	R	43	Template_Funct	*F9	F9		
+American1	N	R	44	Template_Funct	*F10	F10		
+American1	N	R	45	Template_Funct	*F11	F11		
+American1	N	R	72	Template_Funct	*F12	F12		
+American1	N	L	35	Template_1_Meta	*Math	Math		
+American1	N	L	17	Template_1_Meta	*Win	Win		
+American1	N	L	16	Template_1_Meta	*Menu	Menu		
+American1	N	L	34	Template_1_Meta	*Lang	Lang		
+American1	N	L	30	Template_Triple_Space	*Space			
+American1	N	L	33	Template_Chord	ALT	ALT		
+American1	N	L	32	Template_Chord	ALT	ALT		
+American1	N	L	31	Template_Chord	SHIFT	SHIFT		
+American1	N	L	52	Template_Chord	SHIFT	SHIFT		
+American1	N	L	54	Template_Chord	CTRL	CTRL		
+American1	N	L	53	Template_Chord	CTRL	CTRL		
+American1	N	L	57	Template_Funct	*Paste	PASTE		
+American1	N	L	56	Template_Funct	*Clip	CLIP		
+American1	C	L	12	Template_1_Normal	0x00	NUL	`	~
+American1	C	L	7	Template_1_Home	0x01	SOH	a	A
+American1	C	L	29	Template_1_Normal	0x02	STX	b	B
+American1	C	L	5	Template_1_Normal	0x03	ETX	c	C
+American1	C	L	0	Template_1_Home	0x04	EOT	d	D
+American1	C	L	2	Template_1_Normal	0x05	ENQ	e	E
+American1	C	L	4	Template_1_Home	0x06	ACK	f	F
+American1	C	L	13	Template_1_Normal	0x07	BEL	g	G
+American1	C	R	19	Template_1_Normal	0x08	BS	h	H
+American1	C	R	8	Template_1_Normal	0x09	HT	i	I
+American1	C	R	7	Template_1_Home	0x0a	LF	j	J
+American1	C	R	1	Template_1_Home	0x0b	VT	k	K
+American1	C	R	0	Template_1_Home	0x0c	FF	l	L
+American1	C	R	18	Template_1_Normal	0x0d	CR	m	M
+American1	C	R	36	Template_1_Normal	0x0e	SO	n	N
+American1	C	R	2	Template_1_Normal	0x0f	SI	o	O
+American1	C	R	3	Template_1_Normal	0x00	DLE	p	P
+American1	C	L	20	Template_1_Normal	0x11	DC1	q	Q
+American1	C	L	3	Template_1_Normal	0x12	DC2	r	R
+American1	C	L	1	Template_1_Home	0x13	DC3	s	S
+American1	C	L	12	Template_1_Normal	0x14	DC4	t	T
+American1	C	R	20	Template_1_Normal	0x15	NAK	u	U
+American1	C	L	14	Template_1_Normal	0x16	SYN	v	V
+American1	C	L	21	Template_1_Normal	0x17	ETB	w	W
+American1	C	L	6	Template_1_Normal	0x18	CAN	x	X
+American1	C	R	38	Template_1_Normal	0x19	EM	y	Y
+American1	C	L	18	Template_1_Normal	0x1a	SUB	z	Z
+American1	C	L	26	Template_1_Normal	0x1e	RS	6	^
+American1	C	R	46	Template_1_Normal	0x1c	FS	\	|
+American1	C	R	12	Template_1_Normal	0x1b	ESC	[	{
+American1	C	R	27	Template_1_Normal	0x1d	GS	]	}
+American1	S	L	7	Template_1_Home	0x41	A	a	SOH
+American1	S	L	29	Template_1_Normal	0x42	B	b	STX
+American1	S	L	5	Template_1_Normal	0x43	C	c	ETX
+American1	S	L	0	Template_1_Home	0x44	D	d	EOT
+American1	S	L	2	Template_1_Normal	0x45	E	e	ENQ
+American1	S	L	4	Template_1_Home	0x46	F	f	ACK
+American1	S	L	13	Template_1_Normal	0x47	G	g	BEL
+American1	S	R	19	Template_1_Normal	0x48	H	h	BS
+American1	S	R	8	Template_1_Normal	0x49	I	i	HT
+American1	S	R	7	Template_1_Home	0x4a	J	j	LF
+American1	S	R	1	Template_1_Home	0x4b	K	k	VT
+American1	S	R	0	Template_1_Home	0x4c	L	l	FF
+American1	S	R	18	Template_1_Normal	0x4d	M	m	CR
+American1	S	R	36	Template_1_Normal	0x4e	N	n	SO
+American1	S	R	2	Template_1_Normal	0x4f	O	o	SI
+American1	S	R	3	Template_1_Normal	0x50	P	p	DLE
+American1	S	L	20	Template_1_Normal	0x51	Q	q	DC1
+American1	S	L	3	Template_1_Normal	0x52	R	r	DC2
+American1	S	L	1	Template_1_Home	0x53	S	s	DC3
+American1	S	L	12	Template_1_Normal	0x54	T	t	DC4
+American1	S	R	20	Template_1_Normal	0x55	U	u	NAK
+American1	S	L	14	Template_1_Normal	0x56	V	v	SYN
+American1	S	L	21	Template_1_Normal	0x57	W	w	ETB
+American1	S	L	6	Template_1_Normal	0x58	X	x	CAN
+American1	S	R	38	Template_1_Normal	0x59	Y	y	EM
+American1	S	L	18	Template_1_Normal	0x5a	Z	z	SUB
+American1	S	L	26	Template_1_Normal	0x5e	^	6	RS
+American1	S	R	46	Template_1_Normal	0x7c	|	\	FS
+American1	S	L	12	Template_1_Normal	0x7e	~	`	NUL
+American1	S	R	12	Template_1_Normal	0x7b	{	[	ESC
+American1	S	R	27	Template_1_Normal	0x7d	}	]	GS
+American1	S	L	39	Template_3_Normal	0x21	!	1	
+American1	S	L	21	Template_3_Normal	0x40	@	2	
+American1	S	L	9	Template_3_Normal	0x23	#	3	
+American1	S	L	10	Template_3_Normal	0x24	$	4	
+American1	S	L	11	Template_3_Normal	0x25	%	5	
+American1	S	R	39	Template_3_Normal	0x26	&	7	
+American1	S	R	21	Template_3_Normal	0x2a	*	8	
+American1	S	R	9	Template_3_Normal	0x28	(	9	
+American1	S	R	10	Template_3_Normal	0x29	)	0	
+American1	S	R	11	Template_3_Normal	0x5f	_	-	
+American1	S	R	26	Template_3_Normal	0x2b	+	=	
+American1	S	R	13	Template_3_Normal	0x22	"	'	 
+American1	S	R	14	Template_3_Normal	0x3f	?	/	 
+American1	S	R	6	Template_3_Normal	0x3c	<	,	 
+American1	S	R	5	Template_3_Normal	0x3e	>	.	 
+American1	S	L	19	Template_Cmd2	*BackTab	BT	TAB	
