@@ -19,4 +19,18 @@ since it's Inkscape, whatever you want to draw in SVG.
 
 These scripts will generate a static set of png files.   The VRWorld browser will have the base keyboards generated statically, though it's possible that we can autogenerate keys (right now, I don't think that having a command line tool running in a service running Inkscape would be secure...  Most of the svg libraries/tools I've seen for Unity don't support fonts yet, but ultimately we want a tool like this can directly call internally)
 
-![Left American1 Keyboard](https://https://github.com/thorhalbert/VRKeyboard-StaticSprites/Images/American1-L.png)
+---
+## Left American Keyboard
+
+![Left American1 Keyboard](https://github.com/thorhalbert/VRKeyboard-StaticSprites/blob/master/Images/American1-L.png?raw=true)
+
+---
+## Right American Keyboard
+
+![Right American1 Keyboard](https://github.com/thorhalbert/VRKeyboard-StaticSprites/blob/master/Images/American1-R.png?raw=true)
+
+---
+
+## Example Key Glyph
+
+![Right American1 Keyboard](https://github.com/thorhalbert/VRKeyboard-StaticSprites/blob/master/Images/testTemplate.png?raw=true)
